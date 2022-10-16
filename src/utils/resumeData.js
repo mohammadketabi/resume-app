@@ -71,12 +71,6 @@ export default {
       text: "Facebook",
       icon: <FacebookIcon />,
     },
-    Instagram: {
-      id: "3",
-      link: "https://www.instagram.com/mohammad_ketabi/",
-      text: "Instagram",
-      icon: <InstagramIcon />,
-    },
     GitHub: {
       id: "4",
       link: "https://github.com/mohammadketabi",
