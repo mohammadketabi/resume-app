@@ -1,0 +1,108 @@
+.about_text {
+  color: darkslategray;
+  font: smaller;
+  line-height: 22px !important;
+  white-space: pre-line;
+}
+
+/* Timeline Section */
+
+.timeline_title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.timeline_date {
+  color: darkslategray;
+}
+.timeli_des {
+  color: gray;
+  font-size: small;
+  margin-top: 6px;
+}
+
+.services {
+  height: 100%;
+  text-align: center;
+}
+.service_title {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  line-height: 35px !important;
+  text-align: center;
+}
+.service_description {
+  color: #989898 !important;
+  border-color: var(--main-color) !important;
+  margin-right: 5px !important;
+  text-align: center;
+}
+.service_icon > .MuiSvgIcon-root {
+  font-size: 46px !important;
+  margin-left: 0 !important;
+  font-weight: 300 !important;
+  color: darkslategray !important;
+}
+
+/* Skills */
+.skill {
+  border-radius: 6px;
+  padding: 20px;
+  box-shadow: 0 0 48px 0 rgba(4, 6, 4, 0.08);
+  min-height: 186px;
+  height: 100%;
+}
+.skills_title {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  line-height: 35px !important;
+}
+.skill_des {
+  display: flex;
+  align-items: center;
+  color: #989898 !important;
+  font-weight: 400 !important;
+  line-height: 18px !important;
+}
+
+.timeline_dot {
+  border-color: var(--main-color) !important;
+  padding: 2px !important;
+  margin-right: 5px !important;
+}
+
+.rec_name {
+  padding-top: 20px;
+  color: gray;
+}
+
+.rec_role {
+  color: gray;
+}
+
+/* contact */
+
+.contact_info_item {
+  font-size: 14px !important;
+  color: #787878;
+}
+
+.contact_info_item span {
+  color: black;
+  font-weight: 500;
+}
+
+.contact_socials {
+  margin-top: 15px;
+}
+
+.contact_socil > a > .MuiSvgIcon-root {
+  font-size: 16px !important;
+  margin-right: 10px;
+  color: black;
+}
+
+.contact_info_item > a {
+  text-decoration: none !important;
+  color: #787878;
+}
